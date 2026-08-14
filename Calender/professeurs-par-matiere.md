@@ -33,7 +33,8 @@ Chaque professeur assure **les deux groupes** (Excellent et Moyen) de sa section
 
 ## Économie
 
-- Fatma Abdejawad — Bac Éco  **3 séance groupe intermédiaire** + **3 séance groupe elite**
+- Fatma Abdejawad — Bac Éco  **3 séance groupe intermédiaire**
+- Feten Walhezi — Bac Éco  **3 séance groupe elite**
 
 ## Gestion
 
@@ -65,10 +66,10 @@ Chaque professeur assure **les deux groupes** (Excellent et Moyen) de sa section
 | Bac Sc | Math, Physique, SVT | Mohamed Bouker, Faycal Hdiri, Mohsen Massoudi |
 | Bac Math | Math, Physique, SVT | Mohamed Megdich, Faycal Hdiri, Moncef Mansali |
 | Bac Lettres | Arabe, Philo | Lamia Farhani, Khouloud Gharbi |
-| Bac Éco | Math, Éco, Gestion | Makram Lahmar, Fatma Abdejawad, Manel Dhafer |
+| Bac Éco | Math, Éco, Gestion | Makram Lahmar, Feten Walhezi *(élite)*, Fatma Abdejawad *(intermédiaire)*, Manel Dhafer |
 | Bac Info | Math, Physique, Algo, STI | Samia Farhani, Mahdi Ghanmi, Khaireddine Ihrissane, Hamida Skhiri |
 
-**Total : 17 professeurs** pour 11 matières et 24 groupes (12 groupes Excellent + 12 groupes Moyen).
+**Total : 18 professeurs** pour 11 matières et 9 groupes (Bac Sc, Bac Éco et Bac Info ont chacun un groupe Élite et un groupe Intermédiaire ; Bac Math, Bac Tech et Bac Lettres ont un seul groupe intermédiaire).
 
 ---
 

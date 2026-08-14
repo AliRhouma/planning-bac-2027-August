@@ -6,7 +6,7 @@
 
 **Salles (hôtes Zoom) :** 5 disponibles — **maximum 5 utilisées simultanément**.
 
-**Total : 121 séances** · 17 professeurs · 9 groupes.
+**Total : 121 séances** · 18 professeurs · 9 groupes.
 
 
 ---
@@ -36,7 +36,7 @@
 
 | Créneau | Salle 1 | Salle 2 | Salle 3 | Salle 4 | Salle 5 |
 |---|---|---|---|---|---|
-| `11h – 13h` | **Math** — Mohamed Bouker → *Bac Sc — Élite* | **Math** — Mohamed Megdich → *Bac Math — Élite + Intermédiaire* | **Math** — Samia Farhani → *Bac Info — Élite* | **Math** — Makram Lahmar → *Bac Éco — Élite* | **Arabe** — Lamia Farhani → *Bac Lettres — Intermédiaire* |
+| `11h – 13h` | **Math** — Mohamed Bouker → *Bac Sc — Élite* | **Math** — Mohamed Megdich → *Bac Math — Intermédiaire* | **Math** — Samia Farhani → *Bac Info — Élite* | **Math** — Makram Lahmar → *Bac Éco — Élite* | **Arabe** — Lamia Farhani → *Bac Lettres — Intermédiaire* |
 | `14h – 16h` | **Math** — Mohamed Bouker → *Bac Sc — Intermédiaire* | **Physique** — Mahdi Ghanmi → *Bac Tech — Intermédiaire* | **Math** — Samia Farhani → *Bac Info — Intermédiaire* | **Math** — Makram Lahmar → *Bac Éco — Intermédiaire* | — *libre* — |
 
 **J2 · Jeudi 20/08/2026** — 6 séances · 3 salles
@@ -44,7 +44,7 @@
 | Créneau | Salle 1 | Salle 2 | Salle 3 |
 |---|---|---|---|
 | `11h – 13h` | **Physique** — Faycal Hdiri → *Bac Sc — Intermédiaire* | **Math** — Hela Jbeli → *Bac Tech — Intermédiaire* | **Physique** — Mahdi Ghanmi → *Bac Info — Intermédiaire* |
-| `14h – 16h` | **Physique** — Faycal Hdiri → *Bac Sc — Élite* | **SVT** — Moncef Mansali → *Bac Math — Élite + Intermédiaire* | **Physique** — Mahdi Ghanmi → *Bac Info — Élite* |
+| `14h – 16h` | **Physique** — Faycal Hdiri → *Bac Sc — Élite* | **SVT** — Moncef Mansali → *Bac Math — Intermédiaire* | **Physique** — Mahdi Ghanmi → *Bac Info — Élite* |
 
 **J3 · Vendredi 21/08/2026** — 5 séances · 3 salles
 
@@ -57,7 +57,7 @@
 
 | Créneau | Salle 1 | Salle 2 | Salle 3 |
 |---|---|---|---|
-| `11h – 13h` | **SVT** — Mohsen Massoudi → *Bac Sc — Élite* | **Physique** — Faycal Hdiri → *Bac Math — Élite + Intermédiaire* | **STI** — Hamida Skhiri → *Bac Info — Intermédiaire* |
+| `11h – 13h` | **SVT** — Mohsen Massoudi → *Bac Sc — Élite* | **Physique** — Faycal Hdiri → *Bac Math — Intermédiaire* | **STI** — Hamida Skhiri → *Bac Info — Intermédiaire* |
 | `14h – 16h` | **SVT** — Mohsen Massoudi → *Bac Sc — Intermédiaire* | **STI** — Hamida Skhiri → *Bac Info — Élite* | **Philosophie** — Khouloud Gharbi → *Bac Lettres — Intermédiaire* |
 
 
@@ -67,14 +67,14 @@
 
 | Créneau | Salle 1 | Salle 2 | Salle 3 |
 |---|---|---|---|
-| `11h – 13h` | **Mécanique** — Ammar Khlifi → *Bac Tech — Intermédiaire* | **Math** — Samia Farhani → *Bac Info — Élite* | **Économie** — Fatma Abdejawad → *Bac Éco — Élite* |
-| `14h – 16h` | **Math** — Mohamed Megdich → *Bac Math — Élite + Intermédiaire* | **Math** — Samia Farhani → *Bac Info — Intermédiaire* | **Économie** — Fatma Abdejawad → *Bac Éco — Intermédiaire* |
+| `11h – 13h` | **Mécanique** — Ammar Khlifi → *Bac Tech — Intermédiaire* | **Math** — Samia Farhani → *Bac Info — Élite* | **Économie** — Feten Walhezi → *Bac Éco — Élite* |
+| `14h – 16h` | **Math** — Mohamed Megdich → *Bac Math — Intermédiaire* | **Math** — Samia Farhani → *Bac Info — Intermédiaire* | **Économie** — Fatma Abdejawad → *Bac Éco — Intermédiaire* |
 
 **J6 · Mardi 25/08/2026** — 4 séances · 2 salles
 
 | Créneau | Salle 1 | Salle 2 |
 |---|---|---|
-| `11h – 13h` | **Math** — Mohamed Bouker → *Bac Sc — Intermédiaire* | **SVT** — Moncef Mansali → *Bac Math — Élite + Intermédiaire* |
+| `11h – 13h` | **Math** — Mohamed Bouker → *Bac Sc — Intermédiaire* | **SVT** — Moncef Mansali → *Bac Math — Intermédiaire* |
 | `14h – 16h` | **Math** — Mohamed Bouker → *Bac Sc — Élite* | **Physique** — Mahdi Ghanmi → *Bac Tech — Intermédiaire* |
 
 **J7 · Mercredi 26/08/2026** — 6 séances · 3 salles
@@ -89,13 +89,13 @@
 | Créneau | Salle 1 | Salle 2 | Salle 3 |
 |---|---|---|---|
 | `11h – 13h` | **Physique** — Faycal Hdiri → *Bac Sc — Élite* | **Physique** — Mahdi Ghanmi → *Bac Info — Élite* | — *libre* — |
-| `14h – 16h` | **Physique** — Faycal Hdiri → *Bac Sc — Intermédiaire* | **Math** — Mohamed Megdich → *Bac Math — Élite + Intermédiaire* | **Physique** — Mahdi Ghanmi → *Bac Info — Intermédiaire* |
+| `14h – 16h` | **Physique** — Faycal Hdiri → *Bac Sc — Intermédiaire* | **Math** — Mohamed Megdich → *Bac Math — Intermédiaire* | **Physique** — Mahdi Ghanmi → *Bac Info — Intermédiaire* |
 
 **J9 · Vendredi 28/08/2026** — 6 séances · 3 salles
 
 | Créneau | Salle 1 | Salle 2 | Salle 3 |
 |---|---|---|---|
-| `11h – 13h` | **Physique** — Faycal Hdiri → *Bac Math — Élite + Intermédiaire* | **STI** — Hamida Skhiri → *Bac Info — Intermédiaire* | **Gestion** — Manel Dhafer → *Bac Éco — Élite* |
+| `11h – 13h` | **Physique** — Faycal Hdiri → *Bac Math — Intermédiaire* | **STI** — Hamida Skhiri → *Bac Info — Intermédiaire* | **Gestion** — Manel Dhafer → *Bac Éco — Élite* |
 | `14h – 16h` | **Électrique** — Atef Hammemi → *Bac Tech — Intermédiaire* | **STI** — Hamida Skhiri → *Bac Info — Élite* | **Gestion** — Manel Dhafer → *Bac Éco — Intermédiaire* |
 
 **J10 · Samedi 29/08/2026** — 6 séances · 3 salles
@@ -113,13 +113,13 @@
 | Créneau | Salle 1 | Salle 2 | Salle 3 |
 |---|---|---|---|
 | `11h – 13h` | **Physique** — Mahdi Ghanmi → *Bac Tech — Intermédiaire* | **Math** — Samia Farhani → *Bac Info — Intermédiaire* | **Économie** — Fatma Abdejawad → *Bac Éco — Intermédiaire* |
-| `14h – 16h` | **Math** — Mohamed Megdich → *Bac Math — Élite + Intermédiaire* | **Math** — Samia Farhani → *Bac Info — Élite* | **Économie** — Fatma Abdejawad → *Bac Éco — Élite* |
+| `14h – 16h` | **Math** — Mohamed Megdich → *Bac Math — Intermédiaire* | **Math** — Samia Farhani → *Bac Info — Élite* | **Économie** — Feten Walhezi → *Bac Éco — Élite* |
 
 **J12 · Mardi 01/09/2026** — 5 séances · 3 salles
 
 | Créneau | Salle 1 | Salle 2 | Salle 3 |
 |---|---|---|---|
-| `11h – 13h` | **Math** — Mohamed Bouker → *Bac Sc — Élite* | **SVT** — Moncef Mansali → *Bac Math — Élite + Intermédiaire* | **STI** — Hamida Skhiri → *Bac Info — Élite* |
+| `11h – 13h` | **Math** — Mohamed Bouker → *Bac Sc — Élite* | **SVT** — Moncef Mansali → *Bac Math — Intermédiaire* | **STI** — Hamida Skhiri → *Bac Info — Élite* |
 | `14h – 16h` | **Math** — Mohamed Bouker → *Bac Sc — Intermédiaire* | **STI** — Hamida Skhiri → *Bac Info — Intermédiaire* | — *libre* — |
 
 **J13 · Mercredi 02/09/2026** — 5 séances · 3 salles
@@ -127,7 +127,7 @@
 | Créneau | Salle 1 | Salle 2 | Salle 3 |
 |---|---|---|---|
 | `11h – 13h` | **Math** — Makram Lahmar → *Bac Éco — Élite* | **Arabe** — Lamia Farhani → *Bac Lettres — Intermédiaire* | — *libre* — |
-| `14h – 16h` | **Math** — Mohamed Megdich → *Bac Math — Élite + Intermédiaire* | **Math** — Hela Jbeli → *Bac Tech — Intermédiaire* | **Math** — Makram Lahmar → *Bac Éco — Intermédiaire* |
+| `14h – 16h` | **Math** — Mohamed Megdich → *Bac Math — Intermédiaire* | **Math** — Hela Jbeli → *Bac Tech — Intermédiaire* | **Math** — Makram Lahmar → *Bac Éco — Intermédiaire* |
 
 **J14 · Jeudi 03/09/2026** — 5 séances · 3 salles
 
@@ -140,14 +140,14 @@
 
 | Créneau | Salle 1 | Salle 2 | Salle 3 |
 |---|---|---|---|
-| `11h – 13h` | **Physique** — Faycal Hdiri → *Bac Math — Élite + Intermédiaire* | **Algo** — Khaireddine Ihrissane → *Bac Info — Élite* | **Gestion** — Manel Dhafer → *Bac Éco — Intermédiaire* |
+| `11h – 13h` | **Physique** — Faycal Hdiri → *Bac Math — Intermédiaire* | **Algo** — Khaireddine Ihrissane → *Bac Info — Élite* | **Gestion** — Manel Dhafer → *Bac Éco — Intermédiaire* |
 | `14h – 16h` | **Mécanique** — Ammar Khlifi → *Bac Tech — Intermédiaire* | **Algo** — Khaireddine Ihrissane → *Bac Info — Intermédiaire* | **Gestion** — Manel Dhafer → *Bac Éco — Élite* |
 
 **J16 · Samedi 05/09/2026** — 6 séances · 3 salles
 
 | Créneau | Salle 1 | Salle 2 | Salle 3 |
 |---|---|---|---|
-| `11h – 13h` | **SVT** — Mohsen Massoudi → *Bac Sc — Élite* | **Math** — Mohamed Megdich → *Bac Math — Élite + Intermédiaire* | **STI** — Hamida Skhiri → *Bac Info — Intermédiaire* |
+| `11h – 13h` | **SVT** — Mohsen Massoudi → *Bac Sc — Élite* | **Math** — Mohamed Megdich → *Bac Math — Intermédiaire* | **STI** — Hamida Skhiri → *Bac Info — Intermédiaire* |
 | `14h – 16h` | **SVT** — Mohsen Massoudi → *Bac Sc — Intermédiaire* | **STI** — Hamida Skhiri → *Bac Info — Élite* | **Philosophie** — Khouloud Gharbi → *Bac Lettres — Intermédiaire* |
 
 
@@ -157,14 +157,14 @@
 
 | Créneau | Salle 1 | Salle 2 | Salle 3 |
 |---|---|---|---|
-| `11h – 13h` | **Physique** — Mahdi Ghanmi → *Bac Tech — Intermédiaire* | **Math** — Samia Farhani → *Bac Info — Élite* | **Économie** — Fatma Abdejawad → *Bac Éco — Élite* |
+| `11h – 13h` | **Physique** — Mahdi Ghanmi → *Bac Tech — Intermédiaire* | **Math** — Samia Farhani → *Bac Info — Élite* | **Économie** — Feten Walhezi → *Bac Éco — Élite* |
 | `14h – 16h` | **Math** — Samia Farhani → *Bac Info — Intermédiaire* | **Économie** — Fatma Abdejawad → *Bac Éco — Intermédiaire* | — *libre* — |
 
 **J18 · Mardi 08/09/2026** — 6 séances · 3 salles
 
 | Créneau | Salle 1 | Salle 2 | Salle 3 |
 |---|---|---|---|
-| `11h – 13h` | **Math** — Mohamed Bouker → *Bac Sc — Intermédiaire* | **SVT** — Moncef Mansali → *Bac Math — Élite + Intermédiaire* | **Physique** — Mahdi Ghanmi → *Bac Info — Intermédiaire* |
+| `11h – 13h` | **Math** — Mohamed Bouker → *Bac Sc — Intermédiaire* | **SVT** — Moncef Mansali → *Bac Math — Intermédiaire* | **Physique** — Mahdi Ghanmi → *Bac Info — Intermédiaire* |
 | `14h – 16h` | **Math** — Mohamed Bouker → *Bac Sc — Élite* | **Math** — Hela Jbeli → *Bac Tech — Intermédiaire* | **Physique** — Mahdi Ghanmi → *Bac Info — Élite* |
 
 **J19 · Mercredi 09/09/2026** — 7 séances · 4 salles
@@ -172,13 +172,13 @@
 | Créneau | Salle 1 | Salle 2 | Salle 3 | Salle 4 |
 |---|---|---|---|---|
 | `11h – 13h` | **Électrique** — Atef Hammemi → *Bac Tech — Intermédiaire* | **Algo** — Khaireddine Ihrissane → *Bac Info — Élite* | **Math** — Makram Lahmar → *Bac Éco — Intermédiaire* | **Arabe** — Lamia Farhani → *Bac Lettres — Intermédiaire* |
-| `14h – 16h` | **Physique** — Faycal Hdiri → *Bac Math — Élite + Intermédiaire* | **Algo** — Khaireddine Ihrissane → *Bac Info — Intermédiaire* | **Math** — Makram Lahmar → *Bac Éco — Élite* | — *libre* — |
+| `14h – 16h` | **Physique** — Faycal Hdiri → *Bac Math — Intermédiaire* | **Algo** — Khaireddine Ihrissane → *Bac Info — Intermédiaire* | **Math** — Makram Lahmar → *Bac Éco — Élite* | — *libre* — |
 
 **J20 · Jeudi 10/09/2026** — 3 séances · 2 salles
 
 | Créneau | Salle 1 | Salle 2 |
 |---|---|---|
-| `11h – 13h` | **Physique** — Faycal Hdiri → *Bac Sc — Élite* | **Math** — Mohamed Megdich → *Bac Math — Élite + Intermédiaire* |
+| `11h – 13h` | **Physique** — Faycal Hdiri → *Bac Sc — Élite* | **Math** — Mohamed Megdich → *Bac Math — Intermédiaire* |
 | `14h – 16h` | **Physique** — Faycal Hdiri → *Bac Sc — Intermédiaire* | — *libre* — |
 
 **J21 · Vendredi 11/09/2026** — 8 séances · 4 salles
@@ -236,7 +236,7 @@ Répartition : **Math** 4 · **Physique** 4 · **SVT** 4
 | Vendredi | 11/09 | `11h – 13h` | SVT | Mohsen Massoudi |
 
 
-### Bac Math — Élite + Intermédiaire — 15 séances sur 15 jours
+### Bac Math — Intermédiaire — 15 séances sur 15 jours
 
 Répartition : **Math** 7 · **SVT** 4 · **Physique** 4
  · 9 séances le matin / 6 l'après-midi · jamais plus de **1** jour(s) vide(s) d'affilée
@@ -348,13 +348,13 @@ Répartition : **Math** 4 · **Gestion** 4 · **Économie** 3
 |---|---|---|---|---|
 | Mercredi | 19/08 | `11h – 13h` | Math | Makram Lahmar |
 | Vendredi | 21/08 | `14h – 16h` | Gestion | Manel Dhafer |
-| Lundi | 24/08 | `11h – 13h` | Économie | Fatma Abdejawad |
+| Lundi | 24/08 | `11h – 13h` | Économie | Feten Walhezi |
 | Mercredi | 26/08 | `14h – 16h` | Math | Makram Lahmar |
 | Vendredi | 28/08 | `11h – 13h` | Gestion | Manel Dhafer |
-| Lundi | 31/08 | `14h – 16h` | Économie | Fatma Abdejawad |
+| Lundi | 31/08 | `14h – 16h` | Économie | Feten Walhezi |
 | Mercredi | 02/09 | `11h – 13h` | Math | Makram Lahmar |
 | Vendredi | 04/09 | `14h – 16h` | Gestion | Manel Dhafer |
-| Lundi | 07/09 | `11h – 13h` | Économie | Fatma Abdejawad |
+| Lundi | 07/09 | `11h – 13h` | Économie | Feten Walhezi |
 | Mercredi | 09/09 | `14h – 16h` | Math | Makram Lahmar |
 | Vendredi | 11/09 | `11h – 13h` | Gestion | Manel Dhafer |
 
@@ -467,13 +467,13 @@ Répartition : **Arabe** 5 · **Philosophie** 3
 
 | Jour | Date | 11h – 13h | 14h – 16h |
 |---|---|---|---|
-| Mercredi | 19/08 | Bac Math — Élite + Intermédiaire | — *libre* — |
-| Lundi | 24/08 | — *libre* — | Bac Math — Élite + Intermédiaire |
-| Jeudi | 27/08 | — *libre* — | Bac Math — Élite + Intermédiaire |
-| Lundi | 31/08 | — *libre* — | Bac Math — Élite + Intermédiaire |
-| Mercredi | 02/09 | — *libre* — | Bac Math — Élite + Intermédiaire |
-| Samedi | 05/09 | Bac Math — Élite + Intermédiaire | — *libre* — |
-| Jeudi | 10/09 | Bac Math — Élite + Intermédiaire | — *libre* — |
+| Mercredi | 19/08 | Bac Math — Intermédiaire | — *libre* — |
+| Lundi | 24/08 | — *libre* — | Bac Math — Intermédiaire |
+| Jeudi | 27/08 | — *libre* — | Bac Math — Intermédiaire |
+| Lundi | 31/08 | — *libre* — | Bac Math — Intermédiaire |
+| Mercredi | 02/09 | — *libre* — | Bac Math — Intermédiaire |
+| Samedi | 05/09 | Bac Math — Intermédiaire | — *libre* — |
+| Jeudi | 10/09 | Bac Math — Intermédiaire | — *libre* — |
 
 
 ### Samia Farhani — Math · 8 séances sur 4 jours
@@ -510,12 +510,12 @@ Répartition : **Arabe** 5 · **Philosophie** 3
 | Jour | Date | 11h – 13h | 14h – 16h |
 |---|---|---|---|
 | Jeudi | 20/08 | Bac Sc — Intermédiaire | Bac Sc — Élite |
-| Samedi | 22/08 | Bac Math — Élite + Intermédiaire | — *libre* — |
+| Samedi | 22/08 | Bac Math — Intermédiaire | — *libre* — |
 | Jeudi | 27/08 | Bac Sc — Élite | Bac Sc — Intermédiaire |
-| Vendredi | 28/08 | Bac Math — Élite + Intermédiaire | — *libre* — |
+| Vendredi | 28/08 | Bac Math — Intermédiaire | — *libre* — |
 | Jeudi | 03/09 | Bac Sc — Intermédiaire | Bac Sc — Élite |
-| Vendredi | 04/09 | Bac Math — Élite + Intermédiaire | — *libre* — |
-| Mercredi | 09/09 | — *libre* — | Bac Math — Élite + Intermédiaire |
+| Vendredi | 04/09 | Bac Math — Intermédiaire | — *libre* — |
+| Mercredi | 09/09 | — *libre* — | Bac Math — Intermédiaire |
 | Jeudi | 10/09 | Bac Sc — Élite | Bac Sc — Intermédiaire |
 
 
@@ -558,19 +558,28 @@ Répartition : **Arabe** 5 · **Philosophie** 3
 
 | Jour | Date | 11h – 13h | 14h – 16h |
 |---|---|---|---|
-| Jeudi | 20/08 | — *libre* — | Bac Math — Élite + Intermédiaire |
-| Mardi | 25/08 | Bac Math — Élite + Intermédiaire | — *libre* — |
-| Mardi | 01/09 | Bac Math — Élite + Intermédiaire | — *libre* — |
-| Mardi | 08/09 | Bac Math — Élite + Intermédiaire | — *libre* — |
+| Jeudi | 20/08 | — *libre* — | Bac Math — Intermédiaire |
+| Mardi | 25/08 | Bac Math — Intermédiaire | — *libre* — |
+| Mardi | 01/09 | Bac Math — Intermédiaire | — *libre* — |
+| Mardi | 08/09 | Bac Math — Intermédiaire | — *libre* — |
 
 
-### Fatma Abdejawad — Économie · 6 séances sur 3 jours
+### Fatma Abdejawad — Économie · 3 séances sur 3 jours
 
 | Jour | Date | 11h – 13h | 14h – 16h |
 |---|---|---|---|
-| Lundi | 24/08 | Bac Éco — Élite | Bac Éco — Intermédiaire |
-| Lundi | 31/08 | Bac Éco — Intermédiaire | Bac Éco — Élite |
-| Lundi | 07/09 | Bac Éco — Élite | Bac Éco — Intermédiaire |
+| Lundi | 24/08 | — *libre* — | Bac Éco — Intermédiaire |
+| Lundi | 31/08 | Bac Éco — Intermédiaire | — *libre* — |
+| Lundi | 07/09 | — *libre* — | Bac Éco — Intermédiaire |
+
+
+### Feten Walhezi — Économie · 3 séances sur 3 jours
+
+| Jour | Date | 11h – 13h | 14h – 16h |
+|---|---|---|---|
+| Lundi | 24/08 | Bac Éco — Élite | — *libre* — |
+| Lundi | 31/08 | — *libre* — | Bac Éco — Élite |
+| Lundi | 07/09 | Bac Éco — Élite | — *libre* — |
 
 
 ### Atef Hammemi — Électrique · 4 séances sur 4 jours
@@ -618,7 +627,8 @@ Répartition : **Arabe** 5 · **Philosophie** 3
 | Hamida Skhiri | STI | Bac Info | 10 | **10** ✅ | 5 |
 | Mohsen Massoudi | SVT | Bac Sc | 8 | **8** ✅ | 4 |
 | Moncef Mansali | SVT | Bac Math | 4 | **4** ✅ | 4 |
-| Fatma Abdejawad | Économie | Bac Éco | 6 | **6** ✅ | 3 |
+| Fatma Abdejawad | Économie | Bac Éco | 3 | **3** ✅ | 3 |
+| Feten Walhezi | Économie | Bac Éco | 3 | **3** ✅ | 3 |
 | Atef Hammemi | Électrique | Bac Tech | 4 | **4** ✅ | 4 |
 
 ### Volume et rythme par groupe
@@ -627,7 +637,7 @@ Répartition : **Arabe** 5 · **Philosophie** 3
 |---|---|---|---|---|
 | Bac Sc — Élite | **12** | 12 / 21 | 1 | Math 4 · Physique 4 · SVT 4 |
 | Bac Sc — Intermédiaire | **12** | 12 / 21 | 1 | Math 4 · Physique 4 · SVT 4 |
-| Bac Math — Élite + Intermédiaire | **15** | 15 / 21 | 1 | Math 7 · Physique 4 · SVT 4 |
+| Bac Math — Intermédiaire | **15** | 15 / 21 | 1 | Math 7 · Physique 4 · SVT 4 |
 | Bac Tech — Intermédiaire | **16** | 16 / 21 | 1 | Math 4 · Mécanique 4 · Physique 4 · Électrique 4 |
 | Bac Info — Élite | **18** | 18 / 21 | 1 | Algo 5 · Math 4 · Physique 4 · STI 5 |
 | Bac Info — Intermédiaire | **18** | 18 / 21 | 1 | Algo 5 · Math 4 · Physique 4 · STI 5 |
