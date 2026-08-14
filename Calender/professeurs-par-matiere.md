@@ -50,7 +50,7 @@ Chaque professeur assure **les deux groupes** (Excellent et Moyen) de sa section
 
 ## Arabe
 
-- Lamia Farhani — Bac Lettres **5 séance groupe intermédiaire**
+- Lamia Essid — Bac Lettres **5 séance groupe intermédiaire**
 
 ## Philosophie
 
@@ -65,7 +65,7 @@ Chaque professeur assure **les deux groupes** (Excellent et Moyen) de sa section
 | Bac Tech | Math, Physique, Élec, Méca | Hela Jbeli, Mahdi Ghanmi, Atef Hammemi, Ammar Khlifi |
 | Bac Sc | Math, Physique, SVT | Mohamed Bouker, Faycal Hdiri, Mohsen Massoudi |
 | Bac Math | Math, Physique, SVT | Mohamed Megdich, Faycal Hdiri, Moncef Mansali |
-| Bac Lettres | Arabe, Philo | Lamia Farhani, Khouloud Gharbi |
+| Bac Lettres | Arabe, Philo | Lamia Essid, Khouloud Gharbi |
 | Bac Éco | Math, Éco, Gestion | Makram Lahmar, Feten Walhezi *(élite)*, Fatma Abdejawad *(intermédiaire)*, Manel Dhafer |
 | Bac Info | Math, Physique, Algo, STI | Samia Farhani, Mahdi Ghanmi, Khaireddine Ihrissane, Hamida Skhiri |
 

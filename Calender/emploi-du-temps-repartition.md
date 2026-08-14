@@ -36,7 +36,7 @@
 
 | Créneau | Salle 1 | Salle 2 | Salle 3 | Salle 4 | Salle 5 |
 |---|---|---|---|---|---|
-| `11h – 13h` | **Math** — Mohamed Bouker → *Bac Sc — Élite* | **Math** — Mohamed Megdich → *Bac Math — Intermédiaire* | **Math** — Samia Farhani → *Bac Info — Élite* | **Math** — Makram Lahmar → *Bac Éco — Élite* | **Arabe** — Lamia Farhani → *Bac Lettres — Intermédiaire* |
+| `11h – 13h` | **Math** — Mohamed Bouker → *Bac Sc — Élite* | **Math** — Mohamed Megdich → *Bac Math — Intermédiaire* | **Math** — Samia Farhani → *Bac Info — Élite* | **Math** — Makram Lahmar → *Bac Éco — Élite* | **Arabe** — Lamia Essid → *Bac Lettres — Intermédiaire* |
 | `14h – 16h` | **Math** — Mohamed Bouker → *Bac Sc — Intermédiaire* | **Physique** — Mahdi Ghanmi → *Bac Tech — Intermédiaire* | **Math** — Samia Farhani → *Bac Info — Intermédiaire* | **Math** — Makram Lahmar → *Bac Éco — Intermédiaire* | — *libre* — |
 
 **J2 · Jeudi 20/08/2026** — 6 séances · 3 salles
@@ -81,7 +81,7 @@
 
 | Créneau | Salle 1 | Salle 2 | Salle 3 |
 |---|---|---|---|
-| `11h – 13h` | **Algo** — Khaireddine Ihrissane → *Bac Info — Intermédiaire* | **Math** — Makram Lahmar → *Bac Éco — Intermédiaire* | **Arabe** — Lamia Farhani → *Bac Lettres — Intermédiaire* |
+| `11h – 13h` | **Algo** — Khaireddine Ihrissane → *Bac Info — Intermédiaire* | **Math** — Makram Lahmar → *Bac Éco — Intermédiaire* | **Arabe** — Lamia Essid → *Bac Lettres — Intermédiaire* |
 | `14h – 16h` | **Math** — Hela Jbeli → *Bac Tech — Intermédiaire* | **Algo** — Khaireddine Ihrissane → *Bac Info — Élite* | **Math** — Makram Lahmar → *Bac Éco — Élite* |
 
 **J8 · Jeudi 27/08/2026** — 5 séances · 3 salles
@@ -126,7 +126,7 @@
 
 | Créneau | Salle 1 | Salle 2 | Salle 3 |
 |---|---|---|---|
-| `11h – 13h` | **Math** — Makram Lahmar → *Bac Éco — Élite* | **Arabe** — Lamia Farhani → *Bac Lettres — Intermédiaire* | — *libre* — |
+| `11h – 13h` | **Math** — Makram Lahmar → *Bac Éco — Élite* | **Arabe** — Lamia Essid → *Bac Lettres — Intermédiaire* | — *libre* — |
 | `14h – 16h` | **Math** — Mohamed Megdich → *Bac Math — Intermédiaire* | **Math** — Hela Jbeli → *Bac Tech — Intermédiaire* | **Math** — Makram Lahmar → *Bac Éco — Intermédiaire* |
 
 **J14 · Jeudi 03/09/2026** — 5 séances · 3 salles
@@ -171,7 +171,7 @@
 
 | Créneau | Salle 1 | Salle 2 | Salle 3 | Salle 4 |
 |---|---|---|---|---|
-| `11h – 13h` | **Électrique** — Atef Hammemi → *Bac Tech — Intermédiaire* | **Algo** — Khaireddine Ihrissane → *Bac Info — Élite* | **Math** — Makram Lahmar → *Bac Éco — Intermédiaire* | **Arabe** — Lamia Farhani → *Bac Lettres — Intermédiaire* |
+| `11h – 13h` | **Électrique** — Atef Hammemi → *Bac Tech — Intermédiaire* | **Algo** — Khaireddine Ihrissane → *Bac Info — Élite* | **Math** — Makram Lahmar → *Bac Éco — Intermédiaire* | **Arabe** — Lamia Essid → *Bac Lettres — Intermédiaire* |
 | `14h – 16h` | **Physique** — Faycal Hdiri → *Bac Math — Intermédiaire* | **Algo** — Khaireddine Ihrissane → *Bac Info — Intermédiaire* | **Math** — Makram Lahmar → *Bac Éco — Élite* | — *libre* — |
 
 **J20 · Jeudi 10/09/2026** — 3 séances · 2 salles
@@ -186,7 +186,7 @@
 | Créneau | Salle 1 | Salle 2 | Salle 3 | Salle 4 |
 |---|---|---|---|---|
 | `11h – 13h` | **SVT** — Mohsen Massoudi → *Bac Sc — Intermédiaire* | **Mécanique** — Ammar Khlifi → *Bac Tech — Intermédiaire* | **STI** — Hamida Skhiri → *Bac Info — Intermédiaire* | **Gestion** — Manel Dhafer → *Bac Éco — Élite* |
-| `14h – 16h` | **SVT** — Mohsen Massoudi → *Bac Sc — Élite* | **STI** — Hamida Skhiri → *Bac Info — Élite* | **Gestion** — Manel Dhafer → *Bac Éco — Intermédiaire* | **Arabe** — Lamia Farhani → *Bac Lettres — Intermédiaire* |
+| `14h – 16h` | **SVT** — Mohsen Massoudi → *Bac Sc — Élite* | **STI** — Hamida Skhiri → *Bac Info — Élite* | **Gestion** — Manel Dhafer → *Bac Éco — Intermédiaire* | **Arabe** — Lamia Essid → *Bac Lettres — Intermédiaire* |
 
 
 ---
@@ -386,14 +386,14 @@ Répartition : **Arabe** 5 · **Philosophie** 3
 
 | Jour | Date | Créneau | Matière | Professeur |
 |---|---|---|---|---|
-| Mercredi | 19/08 | `11h – 13h` | Arabe | Lamia Farhani |
+| Mercredi | 19/08 | `11h – 13h` | Arabe | Lamia Essid |
 | Samedi | 22/08 | `14h – 16h` | Philosophie | Khouloud Gharbi |
-| Mercredi | 26/08 | `11h – 13h` | Arabe | Lamia Farhani |
+| Mercredi | 26/08 | `11h – 13h` | Arabe | Lamia Essid |
 | Samedi | 29/08 | `14h – 16h` | Philosophie | Khouloud Gharbi |
-| Mercredi | 02/09 | `11h – 13h` | Arabe | Lamia Farhani |
+| Mercredi | 02/09 | `11h – 13h` | Arabe | Lamia Essid |
 | Samedi | 05/09 | `14h – 16h` | Philosophie | Khouloud Gharbi |
-| Mercredi | 09/09 | `11h – 13h` | Arabe | Lamia Farhani |
-| Vendredi | 11/09 | `14h – 16h` | Arabe | Lamia Farhani |
+| Mercredi | 09/09 | `11h – 13h` | Arabe | Lamia Essid |
+| Vendredi | 11/09 | `14h – 16h` | Arabe | Lamia Essid |
 
 
 ---
@@ -412,7 +412,7 @@ Répartition : **Arabe** 5 · **Philosophie** 3
 | Mercredi | 09/09 | Bac Info — Élite | Bac Info — Intermédiaire |
 
 
-### Lamia Farhani — Arabe · 5 séances sur 5 jours
+### Lamia Essid — Arabe · 5 séances sur 5 jours
 
 | Jour | Date | 11h – 13h | 14h – 16h |
 |---|---|---|---|
@@ -613,7 +613,7 @@ Répartition : **Arabe** 5 · **Philosophie** 3
 | Professeur | Matière | Section(s) | Séances prévues | Programmées | Jours de travail |
 |---|---|---|---|---|---|
 | Khaireddine Ihrissane | Algo | Bac Info | 10 | **10** ✅ | 5 |
-| Lamia Farhani | Arabe | Bac Lettres | 5 | **5** ✅ | 5 |
+| Lamia Essid | Arabe | Bac Lettres | 5 | **5** ✅ | 5 |
 | Manel Dhafer | Gestion | Bac Éco | 8 | **8** ✅ | 4 |
 | Hela Jbeli | Math | Bac Tech | 4 | **4** ✅ | 4 |
 | Makram Lahmar | Math | Bac Éco | 8 | **8** ✅ | 4 |
