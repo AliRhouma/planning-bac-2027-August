@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Élèves par niveau — خطوة بخطوة 26/27</title>
+<style>
+  :root{
+    --bg:#f7f8fa; --panel:#ffffff; --ink:#12151a; --muted:#61697a;
+    --line:#e4e7ee; --accent:#3b6fe0; --accent-soft:#e6edfc;
+    --ok:#1f9d55; --warn:#c47f0a; --bad:#d0453c;
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --bg:#0f1216; --panel:#171b21; --ink:#eef1f6; --muted:#9aa3b2;
+      --line:#262c35; --accent:#6f9bff; --accent-soft:#1d2740;
+      --ok:#4ec27e; --warn:#e0a53a; --bad:#f0736a;
+    }
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;
+    line-height:1.5;padding:32px 20px 64px}
+  .wrap{max-width:960px;margin:0 auto}
+  h1{font-size:1.7rem;margin:0 0 6px;letter-spacing:-.02em}
+  .sub{color:var(--muted);font-size:.92rem;margin:0 0 28px}
+  h2{font-size:1.05rem;margin:36px 0 12px;letter-spacing:-.01em}
+  .cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:16px 18px}
+  .card .n{font-size:1.9rem;font-weight:650;letter-spacing:-.03em}
+  .card .l{color:var(--muted);font-size:.8rem;text-transform:uppercase;letter-spacing:.06em}
+  .panel{background:var(--panel);border:1px solid var(--line);border-radius:12px;overflow:hidden}
+  .scroll{overflow-x:auto}
+  table{border-collapse:collapse;width:100%;font-size:.93rem}
+  th,td{padding:10px 14px;text-align:left;border-bottom:1px solid var(--line);white-space:nowrap}
+  thead th{font-size:.76rem;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);font-weight:600}
+  tbody tr:last-child td{border-bottom:none}
+  tfoot td{font-weight:650;border-top:2px solid var(--line);border-bottom:none;background:var(--accent-soft)}
+  .num{text-align:right;font-variant-numeric:tabular-nums}
+  .barcell{width:46%;min-width:180px}
+  .bar{height:10px;border-radius:6px;background:var(--accent);min-width:3px}
+  .track{background:var(--line);border-radius:6px;height:10px;width:100%}
+  .zero{color:var(--muted);opacity:.45}
+  .pill{display:inline-block;padding:2px 9px;border-radius:99px;font-size:.78rem;font-weight:600}
+  .p-ok{background:color-mix(in srgb,var(--ok) 16%,transparent);color:var(--ok)}
+  .p-warn{background:color-mix(in srgb,var(--warn) 18%,transparent);color:var(--warn)}
+  .p-bad{background:color-mix(in srgb,var(--bad) 16%,transparent);color:var(--bad)}
+  footer{color:var(--muted);font-size:.82rem;margin-top:34px}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <h1>Élèves par niveau</h1>
+  <p class="sub">Offre « خطوة بخطوة » — année 26/27 · 215 élèves inscrits</p>
+
+  <div class="cards">
+    <div class="card"><div class="n">215</div><div class="l">Élèves</div></div>
+    <div class="card"><div class="n">6</div><div class="l">Niveaux</div></div>
+    <div class="card"><div class="n">191</div><div class="l">En cours</div></div>
+    <div class="card"><div class="n">204</div><div class="l">Payées</div></div>
+  </div>
+
+  <h2>Nombre d'élèves par niveau</h2>
+  <div class="panel scroll">
+    <table>
+      <thead>
+        <tr><th>Niveau</th><th class="num">Élèves</th><th class="num">%</th><th class="barcell"></th></tr>
+      </thead>
+      <tbody>
+        <tr><td>Economie</td><td class="num">59</td><td class="num">27,4 %</td><td class="barcell"><div class="track"><div class="bar" style="width:100%"></div></div></td></tr>
+        <tr><td>Science</td><td class="num">49</td><td class="num">22,8 %</td><td class="barcell"><div class="track"><div class="bar" style="width:83.1%"></div></div></td></tr>
+        <tr><td>Informatique</td><td class="num">43</td><td class="num">20,0 %</td><td class="barcell"><div class="track"><div class="bar" style="width:72.9%"></div></div></td></tr>
+        <tr><td>Technique</td><td class="num">27</td><td class="num">12,6 %</td><td class="barcell"><div class="track"><div class="bar" style="width:45.8%"></div></div></td></tr>
+        <tr><td>Lettres</td><td class="num">21</td><td class="num">9,8 %</td><td class="barcell"><div class="track"><div class="bar" style="width:35.6%"></div></div></td></tr>
+        <tr><td>Math</td><td class="num">16</td><td class="num">7,4 %</td><td class="barcell"><div class="track"><div class="bar" style="width:27.1%"></div></div></td></tr>
+      </tbody>
+      <tfoot>
+        <tr><td>Total</td><td class="num">215</td><td class="num">100 %</td><td></td></tr>
+      </tfoot>
+    </table>
+  </div>
+
+  <h2>Niveau × Option</h2>
+  <div class="panel scroll">
+    <table>
+      <thead>
+        <tr>
+          <th>Niveau</th>
+          <th class="num">Espagnol</th><th class="num">Italien</th><th class="num">Dessin</th>
+          <th class="num">Allemand</th><th class="num">Sciences</th><th class="num">Music</th>
+          <th class="num">Russe</th><th class="num">Total</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>Economie</td><td class="num">18</td><td class="num">16</td><td class="num">17</td><td class="num">6</td><td class="num zero">0</td><td class="num">1</td><td class="num">1</td><td class="num"><b>59</b></td></tr>
+        <tr><td>Science</td><td class="num">16</td><td class="num">15</td><td class="num">7</td><td class="num">10</td><td class="num zero">0</td><td class="num">1</td><td class="num zero">0</td><td class="num"><b>49</b></td></tr>
+        <tr><td>Informatique</td><td class="num">14</td><td class="num">11</td><td class="num">10</td><td class="num">6</td><td class="num zero">0</td><td class="num">2</td><td class="num zero">0</td><td class="num"><b>43</b></td></tr>
+        <tr><td>Technique</td><td class="num">11</td><td class="num">5</td><td class="num">8</td><td class="num">3</td><td class="num zero">0</td><td class="num zero">0</td><td class="num zero">0</td><td class="num"><b>27</b></td></tr>
+        <tr><td>Lettres</td><td class="num">3</td><td class="num">5</td><td class="num">3</td><td class="num zero">0</td><td class="num">9</td><td class="num">1</td><td class="num zero">0</td><td class="num"><b>21</b></td></tr>
+        <tr><td>Math</td><td class="num">1</td><td class="num">3</td><td class="num">4</td><td class="num">8</td><td class="num zero">0</td><td class="num zero">0</td><td class="num zero">0</td><td class="num"><b>16</b></td></tr>
+      </tbody>
+      <tfoot>
+        <tr><td>Total</td><td class="num">63</td><td class="num">55</td><td class="num">49</td><td class="num">33</td><td class="num">9</td><td class="num">5</td><td class="num">1</td><td class="num">215</td></tr>
+      </tfoot>
+    </table>
+  </div>
+
+  <h2>Niveau × État &amp; paiement</h2>
+  <div class="panel scroll">
+    <table>
+      <thead>
+        <tr>
+          <th>Niveau</th>
+          <th class="num">En cours</th><th class="num">Pas commencé</th><th class="num">Bloqué</th>
+          <th class="num">Payée</th><th class="num">Non payée</th><th class="num">Total</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>Economie</td><td class="num">50</td><td class="num">7</td><td class="num">2</td><td class="num">56</td><td class="num">3</td><td class="num"><b>59</b></td></tr>
+        <tr><td>Science</td><td class="num">42</td><td class="num">7</td><td class="num zero">0</td><td class="num">44</td><td class="num">5</td><td class="num"><b>49</b></td></tr>
+        <tr><td>Informatique</td><td class="num">41</td><td class="num">2</td><td class="num zero">0</td><td class="num">43</td><td class="num zero">0</td><td class="num"><b>43</b></td></tr>
+        <tr><td>Technique</td><td class="num">24</td><td class="num">2</td><td class="num">1</td><td class="num">26</td><td class="num">1</td><td class="num"><b>27</b></td></tr>
+        <tr><td>Lettres</td><td class="num">21</td><td class="num zero">0</td><td class="num zero">0</td><td class="num">21</td><td class="num zero">0</td><td class="num"><b>21</b></td></tr>
+        <tr><td>Math</td><td class="num">13</td><td class="num">3</td><td class="num zero">0</td><td class="num">14</td><td class="num">2</td><td class="num"><b>16</b></td></tr>
+      </tbody>
+      <tfoot>
+        <tr><td>Total</td><td class="num">191</td><td class="num">21</td><td class="num">3</td><td class="num">204</td><td class="num">11</td><td class="num">215</td></tr>
+      </tfoot>
+    </table>
+  </div>
+
+  <p style="margin-top:14px">
+    <span class="pill p-ok">En cours 191</span>
+    <span class="pill p-warn">Pas commencé 21</span>
+    <span class="pill p-bad">Bloqué 3</span>
+  </p>
+
+  <footer>
+    Source : export « خطوة بخطوة.html » (ordres élèves 26/27). Comptage sur la colonne <b>Niveau</b>,
+    une ligne = un élève ; 215 lignes de données retenues.
+  </footer>
+
+</div>
+</body>
+</html>
