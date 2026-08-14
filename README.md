@@ -7,7 +7,7 @@ Répartition des séances de révision du **19 août au 12 septembre 2026** : 12
 
 | Fichier | Description |
 |---|---|
-| [`planning-repartition.html`](planning-repartition.html) | Planning complet à onglets : calendrier global, par bac, par groupe, par professeur, méthode et contrôles. Page autonome, à ouvrir dans un navigateur. |
+| [`index.html`](index.html) | Planning complet à onglets : calendrier global, par bac, par groupe, par professeur, méthode et contrôles. Page autonome, à ouvrir dans un navigateur. |
 | [`Calender/emploi-du-temps-repartition.md`](Calender/emploi-du-temps-repartition.md) | Même planning au format texte : calendrier maître, emploi du temps de chaque groupe et de chaque professeur, tableaux de contrôle. |
 | [`Calender/professeurs-par-matiere.md`](Calender/professeurs-par-matiere.md) | Données sources : volume de séances par professeur et par section, règles de créneaux. |
 | [`emploi-du-temps.html`](emploi-du-temps.html) | Outil d'édition d'emploi du temps existant. |
