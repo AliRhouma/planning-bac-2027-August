@@ -33,8 +33,8 @@ Chaque professeur assure **les deux groupes** (Excellent et Moyen) de sa section
 
 ## Économie
 
-- Fatma Abdejawad — Bac Éco  **3 séance groupe intermédiaire**
-- Feten Walhezi — Bac Éco  **3 séance groupe elite**
+- Fatma Abdejawad — Bac Éco  **3 séance groupe elite**
+- Feten Walhezi — Bac Éco  **3 séance groupe intermédiaire**
 
 ## Gestion
 
@@ -78,6 +78,13 @@ Par piriorité :
 - 11h - 13h ( normal )
 - 14h - 16h (normal)
 - 17h - 19h ( urgent cases when the two timing are occupé)$
+- 19h30 - 21h30 ( cours du soir — Mohamed Bouker uniquement )
+
+Contraintes personnelles :
+- Mohsen Massoudi : pas de séance le samedi
+- Mohamed Bouker : séances du soir à 19h30, un seul groupe par soirée
+- Atef Hammemi : première séance en après-midi
+- Mahdi Ghanmi : le mercredi en matinée
 
 there is just 5 salles ( zoom hosts ) so there is no more 5 sessions at the same time 
 

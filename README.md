@@ -15,7 +15,7 @@ Répartition des séances de révision du **19 août au 12 septembre 2026** : 12
 
 ## Règles de construction
 
-1. **Une séance par jour et par groupe**, à 11h – 13h ou 14h – 16h. Aucun trou dans la journée.
+1. **Une séance par jour et par groupe**, à 11h – 13h, 14h – 16h ou 19h30 – 21h30. Aucun trou dans la journée.
 2. **Au maximum 2 jours vides consécutifs** pour un groupe — 8 groupes sur 9 n'ont jamais plus d'un jour sans cours.
 3. **Le professeur enchaîne ses deux groupes le même jour** : Élite à 11h, Intermédiaire à 14h. Jamais plus de 4 h par jour.
 4. **Alternance matin / après-midi** entre les deux niveaux d'une même section.
@@ -26,6 +26,6 @@ Répartition des séances de révision du **19 août au 12 septembre 2026** : 12
 
 - Repos hebdomadaire le **dimanche** ; les samedis sont travaillés. Samedi 12/09 laissé libre comme journée tampon.
 - **5 salles** (hôtes Zoom) disponibles, jamais dépassées.
-- Créneau **17h – 19h jamais utilisé**, gardé en réserve pour les rattrapages.
+- Créneau **17h – 19h jamais utilisé**, gardé en réserve pour les rattrapages. Créneau du soir **19h30 – 21h30** réservé à Mohamed Bouker.
 - Volume de séances respecté à la séance près pour les 18 professeurs.
 - 0 conflit de professeur, 0 conflit de groupe.
