@@ -1,7 +1,7 @@
 # Planning des séances — Bac 2026
 
 Répartition des séances de révision du **19 août au 12 septembre 2026** : 121 séances,
-18 professeurs, 9 groupes répartis sur 6 sections (Sc, Math, Tech, Lettres, Éco, Info).
+17 professeurs, 9 groupes répartis sur 6 sections (Sc, Math, Tech, Lettres, Éco, Info).
 
 ## Contenu
 
@@ -27,5 +27,5 @@ Répartition des séances de révision du **19 août au 12 septembre 2026** : 12
 - Repos hebdomadaire le **dimanche** ; les samedis sont travaillés. Samedi 12/09 laissé libre comme journée tampon.
 - **5 salles** (hôtes Zoom) disponibles, jamais dépassées.
 - Créneau **17h – 19h jamais utilisé**, gardé en réserve pour les rattrapages. Créneau du soir **19h30 – 21h30** réservé à Mohamed Bouker.
-- Volume de séances respecté à la séance près pour les 18 professeurs.
+- Volume de séances respecté à la séance près pour les 17 professeurs.
 - 0 conflit de professeur, 0 conflit de groupe.

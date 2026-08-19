@@ -13,10 +13,9 @@ Chaque professeur assure **les deux groupes** (Excellent et Moyen) de sa section
 ## Math
 
 - Mohamed Bouker — Bac Sc  : **4 séance groupe intermédiaire** + **4 séance groupe elite**
-- Mohamed Megdich — Bac Math **7 séance groupe intermédiaire** 
 - Makram Lahmar — Bac Éco  **4 séance groupe intermédiaire** + **4 séance groupe elite**
 - Samia Farhani — Bac Info *(groupes Excellent + Moyen)* **4 séance groupe intermédiaire** + **4 séance groupe elite**
-- Hela Jbeli — Bac Tech : **4 séance groupe intermédiaire**
+- Hela Jbeli — Bac Tech : **4 séance groupe intermédiaire** + Bac Math : **7 séance groupe intermédiaire**
 
 ## Physique
 
@@ -64,12 +63,12 @@ Chaque professeur assure **les deux groupes** (Excellent et Moyen) de sa section
 |---|---|---|
 | Bac Tech | Math, Physique, Élec, Méca | Hela Jbeli, Mahdi Ghanmi, Atef Hammemi, Ammar Khlifi |
 | Bac Sc | Math, Physique, SVT | Mohamed Bouker, Faycal Hdiri, Mohsen Massoudi |
-| Bac Math | Math, Physique, SVT | Mohamed Megdich, Faycal Hdiri, Moncef Mansali |
+| Bac Math | Math, Physique, SVT | Hela Jbeli, Faycal Hdiri, Moncef Mansali |
 | Bac Lettres | Arabe, Philo | Lamia Essid, Khouloud Gharbi |
 | Bac Éco | Math, Éco, Gestion | Makram Lahmar, Feten Walhezi *(élite)*, Fatma Abdejawad *(intermédiaire)*, Manel Dhafer |
 | Bac Info | Math, Physique, Algo, STI | Samia Farhani, Mahdi Ghanmi, Khaireddine Ihrissane, Hamida Skhiri |
 
-**Total : 18 professeurs** pour 11 matières et 9 groupes (Bac Sc, Bac Éco et Bac Info ont chacun un groupe Élite et un groupe Intermédiaire ; Bac Math, Bac Tech et Bac Lettres ont un seul groupe intermédiaire).
+**Total : 17 professeurs** pour 11 matières et 9 groupes (Bac Sc, Bac Éco et Bac Info ont chacun un groupe Élite et un groupe Intermédiaire ; Bac Math, Bac Tech et Bac Lettres ont un seul groupe intermédiaire).
 
 ---
 
@@ -81,8 +80,8 @@ Par piriorité :
 - 19h30 - 21h30 ( cours du soir — Mohamed Bouker uniquement )
 
 Contraintes personnelles :
-- Mohsen Massoudi : pas de séance le samedi
-- Mohamed Bouker : séances du soir à 19h30, un seul groupe par soirée
+- Mohsen Massoudi : pas de séance les samedis d'août (22/08 et 29/08)
+- Mohamed Bouker : séances du soir à 19h30, un seul groupe par soirée, aucun samedi
 - Atef Hammemi : première séance en après-midi
 - Mahdi Ghanmi : le mercredi en matinée
 
